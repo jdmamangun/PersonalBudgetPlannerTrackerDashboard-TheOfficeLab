@@ -1,5 +1,7 @@
-Zero-based budget planner, tracker, and dashboard that tracks cash flow, enabling insightful monitoring of the overall personal budget. <br>
+**Personal Budget Planner, Tracker and Dashboard** <br>
+Zero-based budget planner, tracker, and a dashboard that tracks cash flow, enabling insightful monitoring of the overall personal budget. 
 
+<br>
 
 Check out the tutorial by The Office Lab at **http://tinyurl.com/3m2acz4j**
 
